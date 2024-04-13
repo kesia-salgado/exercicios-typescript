@@ -1,3 +1,4 @@
+
 const contadorDeOcorrencia = require('../src/implementacao/logica/contador-de-ocorrencia');
 
 describe('Contador de ocorrencia', () => {
